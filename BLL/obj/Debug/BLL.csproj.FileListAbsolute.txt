@@ -1,0 +1,12 @@
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\bin\Debug\BLL.dll
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\bin\Debug\BLL.pdb
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\bin\Debug\DAL.dll
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\bin\Debug\DAL.pdb
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\bin\Debug\DAL.dll.config
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\obj\Debug\BLL.dll
+C:\Users\Irfan Alam\Documents\vs\customer\BLL\obj\Debug\BLL.pdb

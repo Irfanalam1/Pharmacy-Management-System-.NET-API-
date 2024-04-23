@@ -1,0 +1,14 @@
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\bin\Debug\DAL.dll.config
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\bin\Debug\DAL.dll
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\bin\Debug\DAL.pdb
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\obj\Debug\DAL.dll
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\obj\Debug\DAL.pdb
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\obj\Debug\DAL.Migrations.intiDB.resources
+C:\Users\Irfan Alam\Documents\vs\customer\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
